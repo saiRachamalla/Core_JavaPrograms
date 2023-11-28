@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;CollectionCode.java&apos; to &apos;collecctions/src/com.collections.Arraydeque&apos;&#x0D;&#x0A;- Original project: &apos;collecctions&apos;&#x0D;&#x0A;- Destination element: &apos;collecctions/src/com.collections.Arraydeque&apos;&#x0D;&#x0A;- Original element: &apos;CollectionCode.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.collections.Arraydeque" element1="/src&lt;{CollectionCode.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1697595014176" units="1" version="1.0"/>
+</session>
